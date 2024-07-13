@@ -1,0 +1,1 @@
+Place the SetDPI.exe from https://github.com/imniko/SetDPI next to this application.
